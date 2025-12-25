@@ -1,4 +1,4 @@
-set search_path to baikiemtrathuchanh;
+
 create table Customer(
     customer_id varchar(5) primary key not null ,
     customer_full_name varchar(100) not null ,
